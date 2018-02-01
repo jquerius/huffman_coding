@@ -1,6 +1,8 @@
 # Huffman Coding in Java and Scala
 ### A Final Project for Computer Science 354, Spring 2017
 
+** Disclaimer: This is a personal project chosen as an academic assignment. This is not a standard homework assignment assigned by Boise State University. ** 
+
 This project implements a Huffman Encoder/Decoder in Java and Scala. Each program
 takes in a file, produces an encoded file, and reads the encoded file to ensure
 that no information is lost in the encoding process.
